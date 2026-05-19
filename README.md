@@ -22,16 +22,13 @@ Transferencia de dados
 - Agregador de dados Bynder +54 mil assets. JSON e CSV (4 min -> 14 segundos)
 
 ## PJ (Empresas)
-BFFs IDL (Novo Layout)
-	⁃	APIs
-	⁃	Java
-	⁃	Spring Boot
-	⁃	DynamoDB
-	⁃	Kafka
-	⁃	Feature Flags
-	⁃	Remote config 
-	⁃	Cache (Redis)
-	⁃	Docker
-	⁃	EKS
-	⁃	API Gateway
-	⁃	Datadog 
+
+- BFFs (nova arquitetura)
+- API (Java/Spring Boot)
+- DynamoDB
+- Kafka
+- Feature Flags & Remote config
+- Cache/Redis
+- Docker/EKS
+- API Gateway
+- Datadog 
