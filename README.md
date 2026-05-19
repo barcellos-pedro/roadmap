@@ -2,40 +2,26 @@
 
 Dev Journal logs (PT-BR)
 
-> Especialidade Javascript
-	⁃	AWS (Cloudfront, S3, Lambda)
-	⁃	Backend com Lambdas (Serverless)
-	⁃	Front-end Angular
+## Marketing
 
-# 2021
-PJ
-- BFF Liquidação por montante (Java)
-
-# Martech
-Gerador de warning
-- Novos modelos (novo)
-Swagger
-
-# 2022
-Trilha Contentstack Engenharia IOX (novo)
+- Especialidade Javascript
+⁃ AWS (Cloudfront, S3, Lambda)
+- Backend com Lambdas (Serverless)
+- Front-end Angular
+- Gerador de warning (templating)
+- Curso Contentstack (Degreed)
 - Documentação e videos
+- Maite (2 versões)
 
 Extensões Bynder
-	⁃	  Contentstack
-	⁃	  Salesforce Market cloud Content Builder (novo) (pago) Transferencia de dados com lambda (Getty, Shutter e N/A) AWS para Bynder com metadados (novo)
+- Contentstack
+- Salesforce Market cloud Content Builder
 
-# 2023
-Maite (novo)
-	⁃	  2 versões
-	⁃	  SSO
-	⁃	  Complexidade do app
-	⁃	  Muitos testes
+Transferencia de dados
+- lambda, AWS -> Bynder
+- Agregador de dados Bynder +54 mil assets. JSON e CSV (4 min -> 14 segundos)
 
-Agregador de dados Bynder +54 mil assets
-- JSON e CSV
-	⁃	Melhoria de 4 min pra 14 segundos
-
-## PJ - Chassi Mobile
+## PJ (Empresas)
 BFFs IDL (Novo Layout)
 	⁃	APIs
 	⁃	Java
